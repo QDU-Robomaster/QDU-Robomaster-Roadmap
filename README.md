@@ -1,5 +1,5 @@
 # QDU-Robomaster-Roadmap
-本仓库不包含代码，仅用于集中管理 XRobot 组织的开发路线（Roadmap）与任务跟踪（Issues）。
+本仓库不包含代码，仅用于集中管理 QDU-Robomaster 电控组的开发路线（Roadmap）与任务跟踪（Issues）。
 
 - 路线图与关键事项：以 Epic/Issue 形式维护
 - 跨仓库工作：在此汇总、拆解并链接到各代码仓库的具体实现
